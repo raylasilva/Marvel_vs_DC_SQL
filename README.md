@@ -1,4 +1,5 @@
-# Marvel-vs-DC-SQL-
+# Marvel vs DC (SQL)
+
 Análise de informações sobre os universos Marvel e DC, atraves do SQL.
 
 Este projeto teve como objetivo realizar uma análise detalhada das universos cinematográficos da Marvel e DC, utilizando consultas SQL para extrair informações relevantes e proporcionar insights comparativos. O processo envolveu a busca e coleta de dados na internet, a organização desses dados em planilhas no Google Sheets e, posteriormente, a criação de bases de dados e um diagrama ER (Entidade-Relacionamento) no SQL.
